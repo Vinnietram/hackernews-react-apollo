@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0eb42ed55af1215e3ddab9d58d6d07c8",
+    "revision": "a110c651a0ba20080bbf48c2e75dd08f",
     "url": "/hackernews-react-apollo/index.html"
   },
   {
-    "revision": "aaeb443b440024627ad3",
+    "revision": "1f07a8339a3dcb9ba14f",
     "url": "/hackernews-react-apollo/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hackernews-react-apollo/static/js/2.78c5fc11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aaeb443b440024627ad3",
-    "url": "/hackernews-react-apollo/static/js/main.0fb80682.chunk.js"
+    "revision": "1f07a8339a3dcb9ba14f",
+    "url": "/hackernews-react-apollo/static/js/main.7511ba3d.chunk.js"
   },
   {
     "revision": "552188f0a62680e3530e",
