@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/hackernews-react-apollo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/hackernews-react-apollo/static/js/main.7511ba3d.chunk.js",
-    "main.js.map": "/hackernews-react-apollo/static/js/main.7511ba3d.chunk.js.map",
+    "main.css": "/hackernews-react-apollo/static/css/main.7d9b4162.chunk.css",
+    "main.js": "/hackernews-react-apollo/static/js/main.a7237055.chunk.js",
+    "main.js.map": "/hackernews-react-apollo/static/js/main.a7237055.chunk.js.map",
     "runtime-main.js": "/hackernews-react-apollo/static/js/runtime-main.eab5cbb1.js",
     "runtime-main.js.map": "/hackernews-react-apollo/static/js/runtime-main.eab5cbb1.js.map",
-    "static/js/2.78c5fc11.chunk.js": "/hackernews-react-apollo/static/js/2.78c5fc11.chunk.js",
-    "static/js/2.78c5fc11.chunk.js.map": "/hackernews-react-apollo/static/js/2.78c5fc11.chunk.js.map",
+    "static/js/2.7330568e.chunk.js": "/hackernews-react-apollo/static/js/2.7330568e.chunk.js",
+    "static/js/2.7330568e.chunk.js.map": "/hackernews-react-apollo/static/js/2.7330568e.chunk.js.map",
     "index.html": "/hackernews-react-apollo/index.html",
-    "precache-manifest.7acb434d40378b2c2cbdecb467d41470.js": "/hackernews-react-apollo/precache-manifest.7acb434d40378b2c2cbdecb467d41470.js",
+    "precache-manifest.f940e96a2d88bbdaece4074f843e9fc2.js": "/hackernews-react-apollo/precache-manifest.f940e96a2d88bbdaece4074f843e9fc2.js",
     "service-worker.js": "/hackernews-react-apollo/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/hackernews-react-apollo/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.78c5fc11.chunk.js.LICENSE.txt": "/hackernews-react-apollo/static/js/2.78c5fc11.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/hackernews-react-apollo/static/media/logo.5d5d9eef.svg"
+    "static/css/main.7d9b4162.chunk.css.map": "/hackernews-react-apollo/static/css/main.7d9b4162.chunk.css.map",
+    "static/js/2.7330568e.chunk.js.LICENSE.txt": "/hackernews-react-apollo/static/js/2.7330568e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eab5cbb1.js",
-    "static/js/2.78c5fc11.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7511ba3d.chunk.js"
+    "static/js/2.7330568e.chunk.js",
+    "static/css/main.7d9b4162.chunk.css",
+    "static/js/main.a7237055.chunk.js"
   ]
 }
