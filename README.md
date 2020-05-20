@@ -6,6 +6,8 @@ Followed https://www.howtographql.com/ and the practical https://www.howtographq
 
 Notes to self:
 
+- Need to fire up Apollo server locally to for React page on Github to see news
+  - switch into Apollo server directory and "npm start" on port 4000.
 - Didn't do caching in section https://www.howtographql.com/react-apollo/6-more-mutations-and-updating-the-store/
 - https://www.howtographql.com/react-apollo/8-subscriptions/ (todo)
 - https://www.howtographql.com/react-apollo/9-pagination/ (todo)
